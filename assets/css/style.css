@@ -1,12 +1,12 @@
 
 
 .wafu-img {
-  background-image: url(/assets/images/landing/top2_bg.png);
+  background-image: url(https://github.com/mitsuyukiH/potage_japan/blob/main/assets/images/landing/top2_bg.png?raw=true);
   width: 100%;
 }
 
 .wafu2-img {
-  background-image: url(/assets/images/landing/top2_bg.png);
+  background-image: url(https://github.com/mitsuyukiH/potage_japan/blob/main/assets/images/landing/top2_bg.png?raw=true);
   width: 100%;
   height:auto;
 }
@@ -1410,7 +1410,7 @@ General Styles - Owlcarousel
 --------------------------------------------------------------*/
 .home-section {
 
-  background-image: url(/assets/images/landing/top_bg.png);
+  background-image: url(https://github.com/mitsuyukiH/potage_japan/blob/main/assets/images/landing/top_bg.png?raw=true);
   background-color: black;
   background-repeat: no-repeat;
   background-position:center center;
@@ -1418,7 +1418,7 @@ General Styles - Owlcarousel
   background-size: cover;
 
   @media (min-width:800px){
-  background-image: url(/assets/images/landing/top_bg.png);
+  background-image: url(https://github.com/mitsuyukiH/potage_japan/blob/main/assets/images/landing/top_bg.png?raw=true);
   background-color: black;
   background-repeat: no-repeat;
   background-position:center center;
@@ -1428,7 +1428,7 @@ General Styles - Owlcarousel
   }
   
   @media (min-width:200px){
-    background-image: url(/assets/images/landing/top_small_bg.png);
+    background-image: url(https://github.com/mitsuyukiH/potage_japan/blob/main/assets/images/landing/top_small_bg.png?raw=true);
     background-color: black;
     background-repeat: no-repeat;
     background-position:center center;
@@ -1437,7 +1437,7 @@ General Styles - Owlcarousel
     background-size: cover;
     }
     @media (min-width:800px){
-      background-image: url(/assets/images/landing/top_bg.png);
+      background-image: url(https://github.com/mitsuyukiH/potage_japan/blob/main/assets/images/landing/top_bg.png?raw=true);
       background-color: black;
       background-repeat: no-repeat;
       background-position:center center;
